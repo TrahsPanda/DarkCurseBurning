@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <DamageDef>
+        <defName>TRAHS_DarkCurseBurningDamage</defName>
+        <label>dark curse burn</label>
+        <workerClass>DarkCurseBurning.Melee_DarkCurseBurning</workerClass>
+        <externalViolence>false</externalViolence>
+        <deathMessage>{0} has succumbed to the curse.</deathMessage>
+        <hediff>TRAHS_DarkCurseBurningHediff</hediff>
+        <canUseDeflectMetalEffect>false</canUseDeflectMetalEffect>
+      </DamageDef>
+    
+</Defs>
